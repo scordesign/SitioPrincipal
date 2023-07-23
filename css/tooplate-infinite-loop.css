@@ -55,7 +55,7 @@ blockquote {
 }
 
 .tm-text-primary {
-  color: #37A;
+  color: red;
 }
 
 .tm-font-big {
@@ -64,7 +64,7 @@ blockquote {
 
 .tm-btn-primary {
   color: white;
-  background-color: #369;
+  background-color: black;
   padding: 14px 30px;
 }
 
@@ -113,7 +113,7 @@ blockquote {
 }
 
 .tm-navbar.scroll .tm-nav-link {
-  color: #369;
+  color: black;
 }
 
 .tm-navbar.scroll .tm-nav-link:hover,
@@ -237,7 +237,7 @@ blockquote {
 .tm-down-arrow:hover,
 .tm-down-arrow:focus {
   color: #FFF;
-  background: #37A;
+  background: red;
   padding: 20px 50px;
 }
 
@@ -258,7 +258,7 @@ blockquote {
 
 .tm-icon {
   display: block;
-  color: #37A;
+  color: red;
 }
 
 .tm-continue {
@@ -557,7 +557,7 @@ figure.effect-honey:hover h2 i {
 .tm-btn-submit {
 	font-size: 0.9em;
 	color: #fff;
-	background-color: #369;
+	background-color: black;
 	width: 50%;
 	margin-bottom: 60px;
 }
